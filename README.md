@@ -1,6 +1,8 @@
 # Parameter-Optimization-SVM-102103145
-Completed By: Samarjeet Singh Gandhi 
-Roll No. 102103142
+
+## Completed By: Samarjeet Singh Gandhi 
+
+Roll No. 102103145
 ---
 
 ## Result Table
